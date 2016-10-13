@@ -1,7 +1,8 @@
 # Using NASA's API to Visualise Meteorite Landings on Google Maps
+
 Ever wondered how many meteorites hit Earth every year and, more importantly, where? 
 
-In this Jupyter Notebook, I use NASA's API to access the relevant data and visualize it on Google Maps using the Bokeh library and the Google Maps API.
+In this Jupyter Notebook, I use NASA's API to access some meteorite landings data and visualize it on <a href="https://data.nasa.gov/">Google Maps</a> using the <a href="http://bokeh.pydata.org/en/latest/">Bokeh</a> library and the <a href="https://developers.google.com/maps/">Google Maps API</a>.
 
 See the "nasa_meteorites.ipynb" Notebook for the code.
 
